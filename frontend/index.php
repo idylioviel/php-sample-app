@@ -12,7 +12,7 @@
      * stable-0.1:   Versão COM as linhas de conexão com o banco configuradas, será necessário que o MySQL esteja operante para testes;
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <title>Dashboard</title>
